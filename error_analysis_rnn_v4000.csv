@@ -1,0 +1,6 @@
+src,hyp,ref,src_len,hyp_len,ref_len,error_type
+tom is going to do that again.,tom tidak akan melakukan itu.,tom akan melakukan itu lagi.,7,5,5,Normal
+there is a cat.,adalah yang.,ada seekor kucing.,4,2,3,Under-translation
+this is interesting.,ini ini.,ini menarik.,3,2,2,Normal
+how many countries are there in europe?,apakah adalah di mana?,ada berapa negara di eropa?,7,4,5,Normal
+i can't eat pork.,aku tidak bisa tidak.,saya tidak boleh makan daging babi.,4,4,6,Under-translation
